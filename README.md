@@ -6,7 +6,7 @@
 
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.4.31-blue.svg)](https://kotlinlang.org)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/trojan-v2cross/trojan-android-client)](https://github.com/Trojan-v2cross/Trojan-android-client/releases/tag/2.7.0)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/trojan-v2cross/trojan-android-client)](https://github.com/Trojan-v2cross/Trojan-android-client/releases/tag/2.7.2)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/join_trojan)
 
 
@@ -16,4 +16,4 @@
 
 ### Download
 
-[release](https://github.com/Trojan-v2cross/Trojan-android-client/releases/tag/2.7.0) here.
+[release](https://github.com/Trojan-v2cross/Trojan-android-client/releases/tag/2.7.2) here.
