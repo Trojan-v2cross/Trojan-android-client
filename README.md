@@ -21,6 +21,7 @@ Trojan支持Vmess、VLESS、Trojan、Socks、Shadowsocks等代理协议，增加
 #### 主要功能
 * 显示节点IP地理位置
 * 订阅功能
+* 订阅分组功能
 * 快速测试节点Tcping
 * 快速测试节点真实连接速度
 * 所有节点按照测速结果排序
